@@ -1,0 +1,24 @@
+{
+  "name": "projeto-better",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamyrOR/Bootstrap-Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamyrOR/Bootstrap-Study/issues"
+  },
+  "homepage": "https://github.com/SamyrOR/Bootstrap-Study#readme"
+}

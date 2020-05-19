@@ -1,0 +1,8 @@
+.navbar{
+    background-color: 315383;
+}
+.jumbotron{
+    background-image:url(/img/vitrine.jpg);
+    background-size: cover;
+    background-position: center;
+}

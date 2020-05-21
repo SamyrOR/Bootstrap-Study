@@ -5,4 +5,13 @@
     background-image:url(/img/vitrine.jpg);
     background-size: cover;
     background-position: center;
+    color: #fff;
+}
+.btn-primary{
+    color: black;
+    background-color: #e7ad99;
+    border-color: #e7ad99;
+    border-radius: 0;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
 }

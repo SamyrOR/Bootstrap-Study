@@ -1,1 +1,1 @@
-### Project to pratice and study about de framework Bootstrap
+### Project to pratice and study about the framework Bootstrap

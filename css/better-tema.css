@@ -1,5 +1,5 @@
 .navbar{
-    background-color: 315383;
+    background-color: #315383;
 }
 .jumbotron{
     background-image:url(/img/vitrine.jpg);
@@ -13,9 +13,6 @@
     color: black;
     background-color: #e7ad99;
     border-color: #e7ad99;
-    border-radius: 0;
-    border-top-right-radius: 0.25rem;
-    border-bottom-right-radius: 0.25rem;
 }
 .bg-dark{
     background-color: #010e30 !important;
